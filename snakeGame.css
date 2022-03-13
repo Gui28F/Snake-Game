@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(49, 53, 53);
+}
+header{
+    color:aliceblue;
+    font-size: x-large;
+    margin-left: 20px;
+}
+span{
+    color: aliceblue;
+    font-size: x-large;
+    margin-right: 100px;
+}
+#box{
+    outline: rgb(133, 132, 132) 5px solid;;
+    width:fit-content;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0em gold, 0 0 1em rgb(255, 255, 255);;
+}
+#play{
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 auto;
+    height: 30px;
+    width: 70px;
+    font-weight: bold;
+}
+#restart{
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 auto;
+    height: 30px;
+    width: 85px;
+    font-weight: bold;
+}
+#canvas1{
+    outline: rgb(134, 134, 134) 2px solid;;
+    border-radius: 15px;
+    overflow: hidden;
+
+}
